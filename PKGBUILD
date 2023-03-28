@@ -2,7 +2,7 @@
 pkgname=xero-catppuccin-wallpapers
 _destname1="/"
 pkgver=23.04
-pkgrel=2
+pkgrel=3
 pkgdesc="Catppuccin Desktop Wallpapers"
 arch=('any')
 url="https://github.com/xerolinux"
